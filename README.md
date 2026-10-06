@@ -18,6 +18,7 @@
 | `lesson_03` | 5 · пользователи, группы и sudo | `report.md`, снимки, тесты доступа, `setup-team.sh` | `hw-03` |
 | `lesson_04` | 6 · права доступа, владельцы и umask | `report.md`, снимки, `permissions.md` | `hw-04` |
 | `lesson_05` | 7 · процессы, состояния и сигналы | `report.md`, снимки, `states.md`, `graceful.sh` | `hw-05` |
+| `lesson_06` | 8 · диагностика процессов и управление ресурсами | `report.md`, снимки, `postmortem.md`, `incident.md` | `hw-06` |
 
 В каждой папке: `README.md` — ссылка на занятие и что сделать,
 `homework_NN.md` — что сделать и какие файлы сдать, `screenshots/` — снимки экрана.
